@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(44, 44, 139);
+}
+ul{
+    list-style: none;
+}
+.div01{
+    height: 70px;
+}
+.div01 li{
+    padding-left: 90px;
+
+}
+.div02{
+    background-color:rgb(61, 61, 141) ;
+    margin: 50px;
+    height: 50px;
+}
+.div02 li{
+    float: left;
+    padding-left: 45px;
+    padding-top: 15px;
+}
+.div02 li a{
+    text-decoration: none;
+    color: white;
+
+}
+.div02 li a:hover{
+    text-decoration: underline;
+    color: yellow;
+}
+.div03 li{
+    float: left;
+    padding-left: 100px;
+}
+.item01{
+    text-decoration: underline yellow;
+    text-align: center;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+}
+.div04 a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+.div04 li{
+    float: left;
+    padding-left: 45px;
+}
+.div04 h1{
+    font-size: 30px;
+}
+.div05{
+    background-color: rgb(61, 61, 141);
+
+}
+.div05 li{
+    float: left;
+    padding-left: 80px;
+    padding-top: 30px;
+
+}
+.div05 h2{
+    color: yellow;
+    font-size: 20px;
+}
+.div05 a{
+    text-decoration: none;
+}
+.div05 a:hover{
+    text-decoration: underline white;
+}
